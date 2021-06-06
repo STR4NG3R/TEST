@@ -39,7 +39,7 @@ localhost:5000/api/v1/notes/getnotes?email=yourEmail&password=yourPassword&numbe
 ![GUI application](./docs/assets/ArchLinux_2021-06-06_12-35-46.png)
 
 | Dependencies         | Where you can get it                        |
-| ------------------------------------------------------------------ |
+| -------------------- | ------------------------------------------- |
 | nodejs               | https://nodejs.org/es/download/             |
 | npm                  | https://www.npmjs.com/get-npm               |  
 | postgres             | https://www.postgresql.org/download/        |
