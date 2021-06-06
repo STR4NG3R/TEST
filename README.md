@@ -38,10 +38,10 @@ localhost:5000/api/v1/notes/getnotes?email=yourEmail&password=yourPassword&numbe
 # Error
 ![GUI application](./docs/assets/ArchLinux_2021-06-06_12-35-46.png)
 
-| Dependencies        |
-| ------------------- |
-| nodejs              |
-| npm                 |
-| postgres            |
-| Google Driver       |
+| Dependencies         | Where you can get it                        |
+| ------------------------------------------------------------------ |
+| nodejs               | https://nodejs.org/es/download/             |
+| npm                  | https://www.npmjs.com/get-npm               |  
+| postgres             | https://www.postgresql.org/download/        |
+| Google Chrome Driver | https://chromedriver.chromium.org/downloads |
   
