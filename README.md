@@ -22,7 +22,7 @@ if you dont want to use the React application to interact with the server you ca
 localhost:5000/api/v1/notes/getnotes?email=yourEmail&password=yourPassword
 ```
  
- I use selenium to web scrap the data from the oring and use it on randomist, also you can specify how many notes do you want (optional).
+Also you can specify how many notes do you want (optional).
   
 ```bash
 localhost:5000/api/v1/notes/getnotes?email=yourEmail&password=yourPassword&numberNotes=5
