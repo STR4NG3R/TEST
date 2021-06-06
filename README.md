@@ -27,3 +27,21 @@ localhost:5000/api/v1/notes/getnotes?email=yourEmail&password=yourPassword
 ```bash
 localhost:5000/api/v1/notes/getnotes?email=yourEmail&password=yourPassword&numberNotes=5
 ```
+
+# Credentials
+![GUI application](./docs/assets/ArchLinux_2021-06-06_12-31-22.png)
+
+
+# Responses
+# Ok
+![GUI application](./docs/assets/ArchLinux_2021-06-06_12-30-52.png)
+# Error
+![GUI application](./docs/assets/ArchLinux_2021-06-06_12-35-46.png)
+
+| Dependencies        |
+| ------------------- |
+| nodejs              |
+| npm                 |
+| postgres            |
+| Google Driver       |
+  
