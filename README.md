@@ -23,6 +23,8 @@ localhost:5000/api/v1/notes/getnotes?email=yourEmail&password=yourPassword
 ```
  
 Also you can specify how many notes do you want (optional).
+
+This notes will be inserted in your todoist account.
   
 ```bash
 localhost:5000/api/v1/notes/getnotes?email=yourEmail&password=yourPassword&numberNotes=5
